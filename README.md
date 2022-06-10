@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CsabaDanielFarkas
-- 👀 I’m interested in math, informatics, and a hint of physics.
+- 👀 I’m interested in math and machine learning.
 - 🌱 I’m currently learning analysis and machine learning.
 - 💞️ I’m looking to collaborate on anything I can or cannot do.
 - 📫 How to reach me: csabadanielfarkas at gmail dot com
